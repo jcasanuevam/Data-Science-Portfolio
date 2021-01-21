@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Javier Casanueva Martos</title>
+    <link>https://jcasanuevam.github.io/Data-Science-Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Javier Casanueva Martos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Jan 2021 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://jcasanuevam.github.io/Data-Science-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Finger Count Project with OpenCV</title>
+      <link>https://jcasanuevam.github.io/Data-Science-Portfolio/post/project-2/</link>
+      <pubDate>Thu, 21 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://jcasanuevam.github.io/Data-Science-Portfolio/post/project-2/</guid>
+      <description>Este proyecto se trata del ejercicio final del curso &amp;lsquo;Python for Computer Vision with OpenCV and Deep Learning&amp;rsquo; de José Marcial Portilla en Udemy.
+En él vamos a ser capaces de detectar una mano, segmentarla y contar los dedos de la misma que se están mostrando gracias a la librería de Python&amp;rsquo;OpenCV&amp;rsquo;, muy popular dentro del campo de la visión por ordenador.
+NOTA: No se trata de un tutorial sobre cómo funciona OpenCV y sus diferentes funciones, por lo que no entraré a explicar en detalle lo que hace cada uno de sus métodos utilizados.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: My 1st Kaggle Competition - House Prices Advanced Regression Techniques</title>
+      <link>https://jcasanuevam.github.io/Data-Science-Portfolio/post/project-1/</link>
+      <pubDate>Thu, 25 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jcasanuevam.github.io/Data-Science-Portfolio/post/project-1/</guid>
+      <description>Step-by-step walk through of the well-known Kaggle competition: House Prices Advanced Regression Techniques (Score: 0.145169).
+This project covers the following:
+ FRAME THE PROBLEM GET THE DATA DATA CLEANING:  Looking for missing values Dealing with duplicated data Imputing missing values   EXPLORATORY DATA ANALYSIS (EDA):  Analysing &amp;lsquo;SalePrice&amp;rsquo; Dealing with Outliers Correlations between features and target Non-linear relationships   FEATURE ENGINEERING AND SELECTION ESTABLISH A BASELINE MODEL EVALUATION AND SELECTION:  Feature scaling Implementing Machine Learning Models in Scikit-Learn Model Optimization Model Interpretation   SUBMISSION    Link to this project&amp;rsquo;s Github repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jcasanuevam.github.io/Data-Science-Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jcasanuevam.github.io/Data-Science-Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/javier-casanueva-martos-394809144/   GitHub: https://github.com/jcasanuevam   Medium: https://medium.com/@jcasanueva    </description>
+    </item>
+    
+  </channel>
+</rss>
